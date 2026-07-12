@@ -58,7 +58,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
 <br/><br/>
 
 </td>
