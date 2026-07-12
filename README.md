@@ -5,7 +5,7 @@
   Hi, I'm <strong></strong>Bhagabati Rout
 </h1>
 
-<h3>Full Stack Developer | MERN • C++ • Python</h3>
+<h3>Full Stack Developer </h3>
 
 <div align="left" >
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -20,8 +20,8 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:pratikkumarbehera30@gmail.com"><img src="https://img.shields.io/badge/📧_pratikkumarbehera30@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <a href="mailto:bhagabatirout274@gmail.com"><img src="https://img.shields.io/badge/bhagabatirout274@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/💚_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
