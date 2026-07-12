@@ -92,9 +92,4 @@
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratik3046&theme=solarized-light" alt="GitHub Streak" /></a>
-</div>
